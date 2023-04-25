@@ -1,6 +1,6 @@
 # WeDesign
 
-O WeDesign foi desenvolvido durante aula com o Professor Ivan Lourenço na Udemy. Foi utilizado no desenvolvimento Html5, Css3 e Java Script.
+O WeDesign foi desenvolvido durante aula com o Professor Ivan Lourenço na Udemy. Foi utilizado no desenvolvimento Html5, Css3 e JavaScript.
 <br><br>
 Link para teste: https://paulocatto.github.io/WeDesign/
 <br><br>
